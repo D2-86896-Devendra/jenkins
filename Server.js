@@ -5,7 +5,7 @@ const app=express()
 
 app.get('/',(request,response)=>
 {
-    response.send("welcome to my new side 2.0")
+    response.send("welcome to my new side 3.0")
 })
 
 app.listen(7878,'0.0.0.0',()=>
