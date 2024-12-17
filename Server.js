@@ -5,7 +5,7 @@ const app=express()
 
 app.get('/',(request,response)=>
 {
-    response.send("welcome to my side:CEO Aadesh")
+    response.send("welcome to my side:CEO Deva and Rig")
 })
 
 app.listen(7878,'0.0.0.0',()=>
